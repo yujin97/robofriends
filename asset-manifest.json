@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yujin97/robofriends/static/css/main.246d5ffa.chunk.css",
-    "main.js": "/yujin97/robofriends/static/js/main.2569d032.chunk.js",
-    "main.js.map": "/yujin97/robofriends/static/js/main.2569d032.chunk.js.map",
-    "runtime~main.js": "/yujin97/robofriends/static/js/runtime~main.b201c421.js",
-    "runtime~main.js.map": "/yujin97/robofriends/static/js/runtime~main.b201c421.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/yujin97/robofriends/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.9cf59a5f.chunk.js": "/yujin97/robofriends/static/js/2.9cf59a5f.chunk.js",
-    "static/js/2.9cf59a5f.chunk.js.map": "/yujin97/robofriends/static/js/2.9cf59a5f.chunk.js.map",
-    "index.html": "/yujin97/robofriends/index.html",
-    "precache-manifest.764847fca0951ed674cd34db809507c5.js": "/yujin97/robofriends/precache-manifest.764847fca0951ed674cd34db809507c5.js",
-    "service-worker.js": "/yujin97/robofriends/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/yujin97/robofriends/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.246d5ffa.chunk.css.map": "/yujin97/robofriends/static/css/main.246d5ffa.chunk.css.map",
-    "static/media/App.css": "/yujin97/robofriends/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/robofriends/static/css/main.54e14119.chunk.css",
+    "main.js": "/robofriends/static/js/main.2d8f0499.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.2d8f0499.chunk.js.map",
+    "runtime~main.js": "/robofriends/static/js/runtime~main.e3d5a5e7.js",
+    "runtime~main.js.map": "/robofriends/static/js/runtime~main.e3d5a5e7.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robofriends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.9cf59a5f.chunk.js": "/robofriends/static/js/2.9cf59a5f.chunk.js",
+    "static/js/2.9cf59a5f.chunk.js.map": "/robofriends/static/js/2.9cf59a5f.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.aa93b9a442e94448422e2de945e2f191.js": "/robofriends/precache-manifest.aa93b9a442e94448422e2de945e2f191.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robofriends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.54e14119.chunk.css.map": "/robofriends/static/css/main.54e14119.chunk.css.map",
+    "static/media/App.css": "/robofriends/static/media/SEGA.12a3db8b.woff"
   }
 }
